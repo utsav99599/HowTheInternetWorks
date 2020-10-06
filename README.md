@@ -1,2 +1,3 @@
 # History Of The Internet Project
-#### Utsav Patel & Hiren Paghdal
+## https://utsav99599.github.io/HowTheInternetWorks/
+#### By: Utsav Patel 
